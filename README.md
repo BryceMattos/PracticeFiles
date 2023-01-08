@@ -1,2 +1,2 @@
 # PracticeFiles
-Files created in the very beginning phases
+Files created for practice or for turning in assignments
